@@ -1,0 +1,20 @@
+{
+  "actions": [
+    {
+      "id": "jumpFromKeyboard",
+      "type": "ExecuteFunction",
+      "name": "Go to last filtered column"
+    }
+  ],
+  "shortcuts": [
+    {
+      "action": "jumpFromKeyboard",
+      "key": {
+        "default": "Ctrl+Alt+Shift+F",
+        "windows": "Ctrl+Alt+Shift+F",
+        "mac": "Command+Option+Shift+F",
+        "web": "Ctrl+Alt+Shift+F"
+      }
+    }
+  ]
+}
